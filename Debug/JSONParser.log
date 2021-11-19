@@ -1,0 +1,3 @@
+﻿  handle_file.c
+C:\Projects\C\JSONParser\handle_file.c(11,47): warning C4029: declared formal parameter list different from definition
+  JSONParser.vcxproj -> C:\Projects\C\JSONParser\Debug\JSONParser.exe
